@@ -10,12 +10,12 @@ const char* ssid = "Projectes";
 const char* password = "Petrux10";
 int val;
 const char* host = "147.83.83.21";
-const char* token = "d3ea4f8b63a99e134e273b2ad5fadb4bf88410aec2023ff3b8e57f276658a836";
+const char* token = "API";
 const char* provider = "grup_2-101@team2_provider/";
 const char* sensor = "brightness-sensor/";
 //int value = val;
 //String thisString="PUT /data/grup_2-101@team2_provider/brightness-sensor/";
-//String putreq = thisString + value + " HTTP/1.1\r\nIDENTITY_KEY: d3ea4f8b63a99e134e273b2ad5fadb4bf88410aec2023ff3b8e57f276658a836\r\n\r\n";
+//String putreq = thisString + value + " HTTP/1.1\r\nIDENTITY_KEY: API\r\n\r\n";
 
 // Configuracion del puerto serie y conexion al AP
 void setup() {  
